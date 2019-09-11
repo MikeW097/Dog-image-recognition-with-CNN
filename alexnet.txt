@@ -1,0 +1,58 @@
+Command Line Message:
+  Folder Direction:   pet_images/
+Classifier Method:  alexnet
+Dognames: dognames.txt
+
+       Matches:
+Real: basenji                        Classifier: basenji                             Petlabel: 1                     classifierlabel: 1
+Real: basenji                        Classifier: basenji                             Petlabel: 1                     classifierlabel: 1
+Real: basset hound                   Classifier: basset, basset hound                Petlabel: 1                     classifierlabel: 1
+Real: beagle                         Classifier: beagle                              Petlabel: 1                     classifierlabel: 1
+Real: boston terrier                 Classifier: boston bull, boston terrier         Petlabel: 1                     classifierlabel: 1
+Real: boston terrier                 Classifier: boston bull, boston terrier         Petlabel: 1                     classifierlabel: 1
+Real: boxer                          Classifier: boxer                               Petlabel: 1                     classifierlabel: 1
+Real: cat                            Classifier: tiger cat                           Petlabel: 0                     classifierlabel: 0
+Real: cat                            Classifier: egyptian cat                        Petlabel: 0                     classifierlabel: 0
+Real: cocker spaniel                 Classifier: cocker spaniel, english cocker spaniel, cocker      Petlabel: 1                     classifierlabel: 1
+Real: collie                         Classifier: collie                              Petlabel: 1                     classifierlabel: 1
+Real: dalmatian                      Classifier: dalmatian, coach dog, carriage dog      Petlabel: 1                     classifierlabel: 1
+Real: dalmatian                      Classifier: dalmatian, coach dog, carriage dog      Petlabel: 1                     classifierlabel: 1
+Real: dalmatian                      Classifier: dalmatian, coach dog, carriage dog      Petlabel: 1                     classifierlabel: 1
+Real: fox squirrel                   Classifier: fox squirrel, eastern fox squirrel, sciurus niger      Petlabel: 0                     classifierlabel: 0
+Real: german shepherd dog            Classifier: german shepherd, german shepherd dog, german police dog, alsatian      Petlabel: 1                     classifierlabel: 1
+Real: german shepherd dog            Classifier: german shepherd, german shepherd dog, german police dog, alsatian      Petlabel: 1                     classifierlabel: 1
+Real: german shorthaired pointer     Classifier: german shorthaired pointer          Petlabel: 1                     classifierlabel: 1
+Real: golden retriever               Classifier: golden retriever                    Petlabel: 1                     classifierlabel: 1
+Real: golden retriever               Classifier: golden retriever                    Petlabel: 1                     classifierlabel: 1
+Real: great dane                     Classifier: great dane                          Petlabel: 1                     classifierlabel: 1
+Real: great pyrenees                 Classifier: great pyrenees                      Petlabel: 1                     classifierlabel: 1
+Real: miniature schnauzer            Classifier: miniature schnauzer                 Petlabel: 1                     classifierlabel: 1
+Real: polar bear                     Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus      Petlabel: 0                     classifierlabel: 0
+Real: poodle                         Classifier: standard poodle                     Petlabel: 1                     classifierlabel: 1
+Real: poodle                         Classifier: standard poodle                     Petlabel: 1                     classifierlabel: 1
+Real: rabbit                         Classifier: wood rabbit, cottontail, cottontail rabbit      Petlabel: 0                     classifierlabel: 0
+Real: saint bernard                  Classifier: saint bernard, st bernard           Petlabel: 1                     classifierlabel: 1
+Real: saint bernard                  Classifier: saint bernard, st bernard           Petlabel: 1                     classifierlabel: 1
+Real: skunk                          Classifier: skunk, polecat, wood pussy          Petlabel: 0                     classifierlabel: 0
+
+       Nonmatches:
+Real: beagle                         Classifier: english foxhound                    Petlabel: 1                     classifierlabel: 1
+Real: beagle                         Classifier: walker hound, walker foxhound       Petlabel: 1                     classifierlabel: 1
+Real: boston terrier                 Classifier: basenji                             Petlabel: 1                     classifierlabel: 1
+Real: cat                            Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus      Petlabel: 0                     classifierlabel: 0
+Real: gecko                          Classifier: alligator lizard                    Petlabel: 0                     classifierlabel: 0
+Real: gecko                          Classifier: tree frog, tree-frog                Petlabel: 0                     classifierlabel: 0
+Real: golden retriever               Classifier: tibetan mastiff                     Petlabel: 1                     classifierlabel: 1
+Real: golden retriever               Classifier: afghan hound, afghan                Petlabel: 1                     classifierlabel: 1
+Real: great horned owl               Classifier: ruffed grouse, partridge, bonasa umbellus      Petlabel: 0                     classifierlabel: 0
+Real: great pyrenees                 Classifier: kuvasz                              Petlabel: 1                     classifierlabel: 1
+
+Total matches:  30 	Total nonmatches:  10 
+
+
+pec_correct_dog:   100.0
+pec_correct_nondog:   100.0
+pec_correct_breed:   80.0
+pec_label_match:   75.0
+
+** Total Elapsed Runtime: 0 : 0 : 7
